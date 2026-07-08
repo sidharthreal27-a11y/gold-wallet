@@ -45,7 +45,7 @@ dependencies:
   local_notifications: any
   flutter_local_notifications: ^17.2.1
   app_links: ^6.1.1               # deep links / WalletConnect callbacks
-  package_info_plus: ^8.0.0
+  package_info_plus: ^7.0.0
   device_info_plus: ^10.1.0
 
 dev_dependencies:
