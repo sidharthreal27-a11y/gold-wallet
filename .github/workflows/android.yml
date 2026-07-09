@@ -13,7 +13,7 @@ jobs:
 
     defaults:
       run:
-        working-directory:mobile/main.dart
+        working-directory:mobile
 
     steps:
       - uses: actions/checkout@v4
